@@ -2,3 +2,4 @@ Resolusi 2023
 -Belajar Design Web
 -Belajar Dasar-Dasar PHP
 -Belajar mandiri programming
+-paham web design
